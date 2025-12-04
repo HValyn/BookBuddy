@@ -4,7 +4,6 @@ A local Streamlit app for reading books and chatting with an AI buddy.
 
 Project Structure
 
-/home/dslab527/Documents/exper/
 
 ├── app.py                    # Main Streamlit UI 
 
